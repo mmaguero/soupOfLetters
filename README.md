@@ -15,5 +15,5 @@ You may spend as much time as you like, but a couple of hours should be sufficie
 
 #### O(N)
 
-O(N) describes an algorithm whose performance will grow linearly and in direct proportion to the size of the input data set. Big O favours the worst-case performance scenario, a matching string could be found during any iteration of the "while" (see [!Solution.java](/src/main/java/soup/letters/Solution.java)) loop and the function would return early, but Big O notation will always assume the upper limit where the algorithm will perform the maximum number of iterations.
-[!Credits](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
+O(N) describes an algorithm whose performance will grow linearly and in direct proportion to the size of the input data set. Big O favours the worst-case performance scenario, a matching string could be found during any iteration of the "while" (see [Solution.java](/src/main/java/soup/letters/Solution.java)) loop and the function would return early, but Big O notation will always assume the upper limit where the algorithm will perform the maximum number of iterations.
+[Credits](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
